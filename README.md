@@ -1,4 +1,4 @@
-<img src='https://g.gravizo.com/svg?
+<img src='https://g.gravizo.com/g?
  digraph G {
    main -> parse -> execute;
    main -> init;
