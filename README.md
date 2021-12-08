@@ -1,1 +1,1 @@
-<img src='https://g.gravizo.com/svg?digraph G { main -> parse -> execute; main -> init; main -> cleanup; execute -> make_string; execute -> printf; init -> make_string; main -> printf; execute -> compare; }'/>
+<img src='https://g.gravizo.com/svg?digraph G { main -> parse -> execute; edge [color=red]; main -> init; edge [color=green]; main -> cleanup; execute -> make_string; execute -> printf; init -> make_string; main -> printf; execute -> compare; }'/>
